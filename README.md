@@ -1,7 +1,8 @@
-PNMProcessingWorkshop_Summer2013
-================================
+# Introduction to Programming: A Workshop
 
-Everything you need for the University of Hawaii, Pacific New Media, Processing Workshop (Summer 2013).
+## University of Hawaii, Pacific New Media
+
+Everything you need for the Summer 2013 Processing Workshop.
 
 # License
 
