@@ -8,7 +8,7 @@ If you're taking the workshop, welcome! [Check out the wiki and get started!][wi
 
 ![Everybody should learn...](https://raw.github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/master/images/steve-jobs.jpeg)
 
-For more on *why* we're doing this (besides the fame and fortune), please check out the [workshop wiki's *what* section][wiki what].
+For more on *why* we're doing this (besides the fame and fortune), please check out the [workshop's wiki][wiki].
 
 # License
 
@@ -17,4 +17,3 @@ For more on *why* we're doing this (besides the fame and fortune), please check 
 [class description]: https://github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/wiki/Workshop-Description "Class Description"
 [official website]: http://www.outreach.hawaii.edu/noncredit/courses/programdetail/2212 "Official Website"
 [wiki]: https://github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/wiki "The Workshop Wiki"
-[wiki what]: https://github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/wiki#what-were-teaching
