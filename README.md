@@ -6,6 +6,9 @@ Everything you need for the Summer 2013 Processing Workshop. If you're intereste
 
 If you're taking the workshop, welcome! [Check out the wiki and get started!][wiki]
 
+![Everybody should learn...](https://raw.github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/master/images/steve-jobs.jpeg)
+
+For more on *why* we're doing this (besides the fame and fortune), please check out the [workshop wiki's *what* section][wiki what].
 
 # License
 
@@ -14,3 +17,4 @@ If you're taking the workshop, welcome! [Check out the wiki and get started!][wi
 [class description]: https://github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/wiki/Workshop-Description "Class Description"
 [official website]: http://www.outreach.hawaii.edu/noncredit/courses/programdetail/2212 "Official Website"
 [wiki]: https://github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/wiki "The Workshop Wiki"
+[wiki what]: https://github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/wiki#what-were-teaching
