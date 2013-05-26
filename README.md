@@ -2,7 +2,9 @@
 
 ### A Processing Workshop @ University of Hawai‘i, Pacific New Media
 
-Everything you need for the Summer 2013 Processing Workshop. If you're interested in the details, [check out the class description][class description]. If you'd like to register, check out the [official website][official website].
+Everything you need for the Summer 2013 Processing Workshop. If you're interested in the details, [check out the class description][class description].
+
+If you'd like to register, check out the [registration link on the official UH website][official website].
 
 If you're taking the workshop, welcome! [Check out the wiki and get started!][wiki]
 
