@@ -6,7 +6,7 @@ Everything you need for the Summer 2013 Processing Workshop. If you're intereste
 
 If you're taking the workshop, welcome! [Check out the wiki and get started!][wiki]
 
-![Everybody should learn...](https://raw.github.com/OutOfOffice/PNMProcessingWorkshop_Summer2013/master/images/steve-jobs.jpeg)
+![Everybody should learn...](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/images/steve-jobs.jpeg)
 
 For more on *why* we're doing this (besides the fame and fortune), please check out the [workshop's wiki][wiki].
 
