@@ -1,17 +1,17 @@
-float radius;
+float diameter;
 
 void setup() {
   size(400, 400);
   background(255);
   noStroke();
   
-  radius = width;
+  diameter = width;
 }
 
 void draw() {
-  float shade = map(radius, width, 0, 0, 255);
+  float shade = map(diameter, width, 0, 0, 255);
   fill(shade);
   
-  ellipse(width/2, height/2, radius, radius);
-  radius = radius * 0.8;
+  ellipse(width/2, height/2, diameter, diameter);
+  diameter = diameter * 0.9;
 }
