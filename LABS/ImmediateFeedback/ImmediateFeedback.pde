@@ -1,7 +1,7 @@
 // Hello, welcome to your first sketch.
-size(800, 600);
+size(400, 400);
 fill(255, 0, 0);
-rect(200, 100, 300, 42);
+rect(100, 100, 50, 50);
 
-//fill(0, 0, 255, 100);
-//ellipse(350, 100, 100, 100);
+//fill(0, 0, 255);
+//ellipse(100, 100, 60, 60);
