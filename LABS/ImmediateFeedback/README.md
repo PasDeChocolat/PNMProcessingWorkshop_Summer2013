@@ -11,7 +11,7 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 3. You should see a red rectangle.
 4. Look at the first four lines of this sketch.
 5. Try to guess what these four lines do.
-6. Line 1 is a comment line (it starts with `//`), Processing ignores it.
+6. Line 1 is a comment line (it starts with `//`). Comments are lines that Processing ignores. They are messages written by programmers to tell other programmers (sometimes themselves) what is going on.
 7. In line 2 `size` is used to specify the *size* of the display window.
 8. In line 3 `fill` is used to select the color to draw with. Colors are specified by their red, green, and blue values (RGB). The values can go from 0 to 255 (0 is lowest, 255 highest).
 9. In line 4 `rect` is used to draw a rectangle. Rectangles are specified as the x & y coordinates of the top left corner, their width & height.
