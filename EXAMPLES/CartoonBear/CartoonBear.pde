@@ -1,14 +1,13 @@
-float x, y;
-
 void setup() {
   size(400, 400);
   background(0);
-  stroke(255, 50);
+  stroke(255);
   strokeWeight(1);
-  fill(255, 0);
+  noFill();
 }
 
 void draw() {
+  // move coordinate system
   translate(width/2, height/4);
   
   // head
