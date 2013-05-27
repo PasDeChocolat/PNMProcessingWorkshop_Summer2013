@@ -15,11 +15,14 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 7. In line 2 `size` is used to specify the *size* of the display window.
 8. In line 3 `fill` is used to select the color to draw with. Colors are specified by their red, green, and blue values (RGB). The values can go from 0 to 255 (0 is lowest, 255 highest).
 9. In line 4 `rect` is used to draw a rectangle. Rectangles are specified as the x & y coordinates of the top left corner, their width & height.
-10. The last two lines are commented out, so they don't do anything.
-11. Uncomment the last two lines by removing the `//` at the beginning of each line.
-12. In order to see your changes in the display window you have to restart the sketch. Stop the sketch by pressing the *Stop* button.
-13. Restart the sketch by pressing the *Run* button again.
-14. Notice the changes and try to guess why the occurred.
+10. Change the size of the rectangle by changing the last number in the rect call from 42 to 400. How do you think that will change the drawing?
+11. In order to see your changes in the display window you have to restart the sketch. Stop the sketch by pressing the *Stop* button.
+12. Restart the sketch by pressing the *Run* button again.
+13. Notice that the rectangle just got a lot taller. That's because you changed the rectangles height.
+14. The last two lines are commented out, so they don't do anything.
+15. Uncomment the last two lines by removing the `//` at the beginning of each line.
+16. Restart the sketch to see your changes. You must stop and restart it again.
+17. Notice the changes and try to guess why the occurred.
 
 ### Extra Credit
 
