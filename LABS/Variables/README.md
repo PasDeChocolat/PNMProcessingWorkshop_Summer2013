@@ -5,8 +5,8 @@
 In this lab you're going to see a lot of new concepts. Try to pay close attention to the use of *variables*. If you don't totally understand everything else, no big deal. It's the *variables* that we're concentrating on here.
 
 You're going to try to draw a bunch of concentric circles, like this:
-![Concentric Circles](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/Variables/data/circles.png)
 
+![Concentric Circles](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/Variables/data/circles.png)
 
 ### Instructions
 
@@ -34,7 +34,34 @@ You'll find one solution to this lab [here](https://github.com/PasDeChocolat/PNM
 
 #### Change the size of the display window
 
+You can change the size of the display window. To do this:
+
+* Alter the `size` function's arguments. They are currently `400` & `400`.
+* What happens when you make them larger?
+* Restart the sketch.
+* Why is the circle able to adjust to the size of the window?
+
 #### What is `map` doing?
+
+Take a look at the call to `map` and try to guess what it's doing:
+
+````processing
+float shade = map(diameter, width, 0, 0, 255);
+````
+
+* Look at the documentation for `map` and see if that makes any sense to you.
+* Try swapping the last two arguments (`0` and `255`).
+* Rerun the sketch.
+* What changed?
 
 #### Experiment with color
 
+The `shade` variable is passed to the `fill` function to set a grayscale value. Try making it use shades of blue instead.  How would you do that?
+
+Change the `fill` call to something like this:
+
+````processing
+fill(0, 0, shade);
+````
+
+Rerun the sketch. What does this do?  Why does it work?
