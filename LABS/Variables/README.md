@@ -5,6 +5,7 @@
 In this lab you're going to see a lot of new concepts. Try to pay close attention to the use of *variables*. If you don't totally understand everything else, no big deal. It's the *variables* that we're concentrating on here.
 
 You're going to try to draw a bunch of concentric circles, like this:
+![Concentric Circles](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/Variables/data/circles.png)
 
 
 ### Instructions
