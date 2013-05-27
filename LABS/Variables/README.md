@@ -43,16 +43,18 @@ You can change the size of the display window. To do this:
 
 #### What is `map` doing?
 
-Take a look at the call to `map` and try to guess what it's doing:
+Take a look at the call to `map` and try to guess what it's doing in this line:
 
 ````processing
 float shade = map(diameter, width, 0, 0, 255);
 ````
 
-* Look at the documentation for `map` and see if that makes any sense to you.
+* Look at the documentation for `map` and see if that makes any sense to you. There's a shortcut for looking up a specific keyword. Select `map` by double-clicking it. Then select `Help > Find in Reference` from the top menu. That should go straight to the `map` entry in the reference.
 * Try swapping the last two arguments (`0` and `255`).
 * Rerun the sketch.
 * What changed?
+
+Try opening up `Help > Reference` to see what other things you can find.
 
 #### Experiment with color
 
