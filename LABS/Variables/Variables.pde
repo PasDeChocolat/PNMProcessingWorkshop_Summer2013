@@ -12,5 +12,6 @@ void draw() {
   float shade = map(diameter, width, 0, 0, 255);
   fill(shade);
   
-  ellipse(width/2, height/2, 100, 100);
+  ellipse(width/2, height/2, diameter, diameter);
+  diameter = diameter * 0.9;
 }
