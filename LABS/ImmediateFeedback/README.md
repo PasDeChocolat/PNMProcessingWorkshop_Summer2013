@@ -38,4 +38,4 @@ There are a lot of different ways to open a sketch. To make things easier for yo
 
 The `fill` commands specify what color will be used to draw the rectangle and ellipse. The `fill` color is specified by it's RGB color combination. RGB stands for red, green, & blue. The values for each color component range from 0 to 255. 0 means none at all. 255 means as much as possible.
 
-* Try changeing the RBG values in this sketch's `fill` functions.
+* Try changing the RBG values in this sketch's `fill` functions.
