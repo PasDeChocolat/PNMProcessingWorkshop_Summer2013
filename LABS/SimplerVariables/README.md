@@ -6,8 +6,7 @@ Open SimpleVariables.pde.  We are adding on a little bit if complexity
 here.  You will see two blocks of text.  One starts with `void setup`, and
 the other one starts with `void draw`.  These are called *functions*
 
-Don't worry about what `void` means for now.  Functions are a way of
-organizing your code into pieces.
+Functions are a way of organizing your code into pieces.  Don't worry about what `void` means for now.
 
 The `setup` function is run *one time* when you first start your
 program.
@@ -116,6 +115,82 @@ says `int width=50;` to say `int width=500;`
 
 Run your sketch again and your rectangle should be wider.  Cool right?
 
+I should note that there is nothing magic about the names I picked for
+those variables.  If you would rather call the width of the rectangle
+"veronica", the following code would work also:
+
+```processing
+void draw()
+  int x = 100;
+  int y = 100;
+  int veronica = 500;
+  int height = 200;
+  rect(x, y, veronica, height);
+```
+
+Pick variable names that help you understand what is happening in your
+code.
+
+## The draw() function (let's make stuff MOVE)
+
+Remember how I said that the `draw()` function is run over and over?
+Why is that interesting?  Well, right now, it's not very useful.  Your
+function is drawing the exact same rectangle over and over really fast.
+Since it keeps drawing the same thing over and over, it doesn't look
+very exciting. 
+
+Processing comes with two special variables called `mouseX` and
+`mouseY`.  These variables are automatically updated several times a
+second.  They represent the position of your mouse cursor as your
+program is running.  Try replacing this line:
+
+```processing
+int x = 100;
+```
+with this line:
+
+```processing
+int x = mouseX;
+```
+
+Now run the program.  The rectangle should follow your cursor as you
+move it back and forth.  
+
+You'll notice that the rectangles kind of smear as you move your cursor.
+This is because your program draws a new rectangle but never deletes the
+old rectangles.  You can use the `clear();` command to delete everything
+on the screen.  Add `clear();` before `rectangle(x,y,width,height);`.
+Your program should look like this now:
+
+```processing
+void setup() {
+ size(400, 400);
+}
+
+void draw() {
+  int x = mouseX;
+  int y = 100;
+  int width = 100;
+  int height = 200;
+  clear();
+  rect(x, y, width, height);
+}
+```
+
+The rectangle should now stop smearing across the screen.  Let's try
+making the rectangle do a better job of following your mouse.  Change
+the `int y = 100;` line to read: `int y = mouseY;`
+
+Now the rectangle should follow your mouse.
 
 
+## Extra Credit
 
+Computers are great at doing math.  Try using math to calculate the
+values of your x, y, width, and height variables.  For example, you can
+make the height of the rectangle equal to 1/2 of your mouse's X position
+by chaning your int height line to this:
+
+`int height = mouseX / 2;`
+
+/ means 'divide' in Processing.
