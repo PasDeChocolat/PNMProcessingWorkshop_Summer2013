@@ -20,8 +20,8 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 11. In order to see your changes in the display window you have to restart the sketch. Stop the sketch by pressing the *Stop* button.
 12. Restart the sketch by pressing the *Run* button again.
 13. Notice how the rectangle's appearance differs (or doesn't) depending on your changes.
-  - I changed that line to read like this (yours may differ): ```Processing rect(150, 150, 100, 200);```
-  - So, my output looks like this (yours may differ): ![My Changes](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/ImmediateFeedback/my_changes.png)
+  - I changed that line to read like this (yours may differ): `rect(150, 150, 100, 200);`
+  - Notice that I've made the height of the rectangle twice as large. So, my output looks like this (yours may differ): ![My Changes](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/ImmediateFeedback/my_changes.png)
 
 #### Break it!
 
@@ -30,8 +30,9 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 3. What happened? Did you see something like this: ![Crazy Horse Head](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/ImmediateFeedback/crazy_horse_head.png)
 4. You broke it. Freak out. Seriously, get it all out.
 5. That's an error message at the bottom in burnt umber (reddish brown): "The function crazyhorsehead(int, int, int, int) does not exist."
-6. Fix your sketch by changing `crazyhorsehead` back to `rect`.
-7. Restart the sketch. All is again right with the world.
+6. Also, see how the line with the error is highlighted yellow?
+7. Fix your sketch by changing `crazyhorsehead` back to `rect`.
+8. Restart the sketch and restore calm.
 
 ### Extra Credit
 
