@@ -20,6 +20,8 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 11. In order to see your changes in the display window you have to restart the sketch. Stop the sketch by pressing the *Stop* button.
 12. Restart the sketch by pressing the *Run* button again.
 13. Notice how the rectangle's appearance differs (or doesn't) depending on your changes.
+  - I changed that line to read like this (yours may differ): ```Processing rect(150, 150, 100, 200);```
+  - So, my output looks like this (yours may differ): ![My Changes](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/ImmediateFeedback/my_changes.png)
 
 #### Break it!
 
