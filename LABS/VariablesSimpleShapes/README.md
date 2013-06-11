@@ -17,7 +17,7 @@ This lab is designed to show you how to draw simple shapes with color and variab
 1. Change the sketch so that the *plus* and *circle* are filled with red, and the *square* is filled with green.
 2. Do this by adding a call to `fill()` before you draw each shape.
 3. You should see this: ![Colored Shapes](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/VariablesSimpleShapes/colored_shapes.png)
-4. If you get stuck, check out [the solution](https://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/tree/master/LABS/SOLUTIONS/VariablesSimpleShapesWithColor/VariablesSimpleShapesWithColor.pde).
+4. If you get stuck, check out [our solution](https://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/tree/master/LABS/SOLUTIONS/VariablesSimpleShapesWithColor/VariablesSimpleShapesWithColor.pde).
 
 #### Make it easier with variables
 
