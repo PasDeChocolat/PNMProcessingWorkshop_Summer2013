@@ -8,7 +8,7 @@ This lab is designed to show you how to draw simple shapes with color and variab
 
 #### Draw some shapes
 
-1. Open the sketch by double clicking the VariablesSimpleShapes.pde file.
+1. Open the sketch by opening the [VariablesSimpleShapes.pde](http://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/blob/master/LABS/VariablesSimpleShapes/VariablesSimpleShapes.pde) file.
 2. Run the sketch by pressing the *Run* button. It looks like a *Play* ▶ button.
 3. You should see three shapes (our tribute to [Kazimir Malevich](http://en.wikipedia.org/wiki/Kazimir_Malevich)). Like this: ![Three Shapes](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/VariablesSimpleShapes/three_shapes.png)
 
