@@ -41,4 +41,4 @@ This is a clearer way to specify colors. *Red* is now named `red`, instead of so
 
 1. Use variables to name and store each color (red and green).
 2. Use the new red and green variables to specify your fill colors.
-4. Compare your solution to [the solution we came up with](https://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/tree/master/LABS/SOLUTIONS/VariablesSimpleShapesWithColorVarialbes/VariablesSimpleShapesWithColorVarialbes.pde).
+4. Compare your solution to [the solution we came up with](https://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/tree/master/LABS/SOLUTIONS/VariablesSimpleShapesWithColorVariables/VariablesSimpleShapesWithColorVariables.pde).
