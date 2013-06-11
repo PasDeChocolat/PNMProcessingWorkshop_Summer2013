@@ -10,7 +10,7 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 2. Run the sketch by pressing the *Run* button. It looks like a *Play* ▶ button.
 3. You should see a white square on a gray background.
 
-![]()
+![First Result](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/ImmediateFeedback/first_result.png)
 
 4. Look at the lines in the sketch beginning with `size` and `rect`.
 5. Try to guess what these lines do.
@@ -20,6 +20,9 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 10. Change the size of the square by changing the last number in the rect call from 42 to 200. How do you think that will change the drawing?
 11. In order to see your changes in the display window you have to restart the sketch. Stop the sketch by pressing the *Stop* button.
 12. Restart the sketch by pressing the *Run* button again.
+
+![Second Result](https://raw.github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/master/LABS/ImmediateFeedback/second_result.png)
+
 13. Notice that the rectangle just got a lot taller. That's because you changed the rectangles height.
 14. The last two lines are commented out, so they don't do anything.
 15. Uncomment the last two lines by removing the `//` at the beginning of each line.
