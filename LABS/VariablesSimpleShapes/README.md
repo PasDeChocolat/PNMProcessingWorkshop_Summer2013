@@ -42,3 +42,15 @@ This is a clearer way to specify colors. *Red* is now named `red`, instead of so
 1. Use variables to name and store each color (red and green).
 2. Use the new red and green variables to specify your fill colors.
 4. Compare your solution to [the solution we came up with](https://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/tree/master/LABS/SOLUTIONS/VariablesSimpleShapesWithColorVariables/VariablesSimpleShapesWithColorVariables.pde).
+
+### Extra Credit
+
+#### Change the shade of red
+
+You can now easily adjust the shade of both red shapes.
+
+1. Change the numbers in the definition of the `red` variable.
+2. Restart the sketch.
+3. Both red shapes should now have a new color.
+
+You were able to change the color of multiple shapes using a single change to your program.
