@@ -8,14 +8,16 @@ Take a look at this Processing sketch. Don't worry if you don't understand every
 
 1. Open the sketch by double clicking the ImmediateFeedback.pde file.
 2. Run the sketch by pressing the *Run* button. It looks like a *Play* ▶ button.
-3. You should see a red rectangle.
-4. Look at the first four lines of this sketch.
-5. Try to guess what these four lines do.
-6. Line 1 is a comment line (it starts with `//`). Comments are lines that Processing ignores. They are messages written by programmers to tell other programmers (sometimes themselves) what is going on.
-7. In line 2 `size` is used to specify the *size* of the display window.
-8. In line 3 `fill` is used to select the color to draw with. Colors are specified by their red, green, and blue values (RGB). The values can go from 0 to 255 (0 is lowest, 255 highest).
-9. In line 4 `rect` is used to draw a rectangle. Rectangles are specified as the x & y coordinates of the top left corner, their width & height.
-10. Change the size of the rectangle by changing the last number in the rect call from 42 to 200. How do you think that will change the drawing?
+3. You should see a white square on a gray background.
+
+![]()
+
+4. Look at the lines in the sketch beginning with `size` and `rect`.
+5. Try to guess what these lines do.
+6. Lines beginning with `//` are comment lines. Comments are lines that Processing ignores. They are messages written by programmers to tell other programmers (sometimes themselves) what is going on.
+7. In line 4 `size` is used to specify the *size* of the display window.
+8. In line 6 `rect` is used to draw a square. Squares are specified as the x and y coordinates of the top left corner, their width, and their height.
+10. Change the size of the square by changing the last number in the rect call from 42 to 200. How do you think that will change the drawing?
 11. In order to see your changes in the display window you have to restart the sketch. Stop the sketch by pressing the *Stop* button.
 12. Restart the sketch by pressing the *Run* button again.
 13. Notice that the rectangle just got a lot taller. That's because you changed the rectangles height.
