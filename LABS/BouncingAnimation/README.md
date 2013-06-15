@@ -24,7 +24,7 @@ What happens now? The circle bounces back, but then runs off the left-side of th
 3. Run the sketch.
 4. You should see the circle bounce back and forth forever.
 
-Check out [our solution](er2013/blob/master/LABS/SOLUTIONS/BouncingAnimation/BouncingAnimation.pde) if you get stuck. There are nicer (more sophisticated) ways to accomplish this, but we're just learning right?
+Check out [our solution](http://github.com/PasDeChocolat/PNMProcessingWorkshop_Summer2013/blob/master/LABS/SOLUTIONS/BouncingAnimation/BouncingAnimation.pde) if you get stuck. There are nicer (more sophisticated) ways to accomplish this, but we're just learning right?
 
 ### Extra Credit
 
