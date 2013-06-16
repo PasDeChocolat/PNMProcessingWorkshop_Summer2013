@@ -3,7 +3,7 @@ int velocity = 1;
 
 void setup() {
   size(400, 400);
-  x = 0;
+  x = 50;
 }
 
 void draw() {
@@ -12,7 +12,7 @@ void draw() {
   x = x + velocity;
   
   // Add if-statement here:
-  if (x == width) {
+  if (x == width - 50) {
     velocity = -1 * velocity;
   }
   if (x == 0) {
